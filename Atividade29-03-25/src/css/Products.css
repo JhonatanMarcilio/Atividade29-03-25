@@ -1,0 +1,31 @@
+.products-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.products-title {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.products-list {
+    list-style: none;
+    padding: 0;
+}
+
+.products-list li {
+    margin: 10px 0;
+}
+
+.products-link {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.products-link:hover {
+    color: #0056b3;
+}

@@ -1,0 +1,17 @@
+.blogpost-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.blogpost-title {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.blogpost-id {
+    font-size: 1.2rem;
+    color: #555;
+}
